@@ -18,4 +18,3 @@ Usage of this tool for malicious purposes is strictly prohibited. Code Injector 
 Contribution
 Contributions are welcome! If you'd like to enhance this tool or report issues, please follow the contribution guidelines.
 
-License
